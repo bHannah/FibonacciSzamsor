@@ -9,4 +9,4 @@ for i in range(menny):
   print(szamitott)
   elso_elem = masodik_elem
   masodik_elem = szamitott
-print("Megállapítható hogy a számsorozat mindig az előző két szám összege!")
+print("Megállapítható hogy a számsorozat következő tagja mindig az előző két szám összege!")
